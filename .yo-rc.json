@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "ZjM1YjhjNmRmNzVkMTBkYWRmNjQzMDdmMTA0YzZiOGVjNzdjNWMyMWQwMWUyZmJlYWIxMGUwMDk2NGRlZWZiODQ4OTVkOTQwMmMyNWNhYjA2Y2UxZDI0NGQ4NzIzNzdlY2I0MWQ3NDYyYWU1ZWY1OGY2OWNhNTAzMjgzOWJlNjM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "dugasfrederick",
+  "repository-name": "jhipster-sample-application"
+}
